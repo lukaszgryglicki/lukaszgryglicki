@@ -1,10 +1,3 @@
-### Hi there 👋
-
-<!--
-**lukaszgryglicki/lukaszgryglicki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
   - All kinds of backends for The Linux Foundation Insights V2 project
   - I'm an author & maintainer of CNCF's DevStats tool.
@@ -34,4 +27,3 @@ Here are some ideas to get you started:
   - UVP [profile](https://www.ultravioletphotography.com/content/index.php?/profile/368-lukaszgryglicki/).
 - 😄 Pronouns: him.
 - For more about my company affiliations, programming languages/techs/stack used etc. etc. - please see LinkedIn [profile](https://www.linkedin.com/in/lukasz-gryglicki-89a6a678/)
--->
