@@ -21,6 +21,7 @@
   - Email: lukaszgryglicki@o2.pl
   - Phone: +48 693582014
   - Skype: lukaszgryglicki (barely used).
+  - OSS insight: https://ossinsight.io/analyze/lukaszgryglicki
   - This GitHub page.
   - LinkedIn [profile](https://www.linkedin.com/in/lukasz-gryglicki-89a6a678/).
   - FB [profile](https://www.facebook.com/lukasz.gryglicki/).
