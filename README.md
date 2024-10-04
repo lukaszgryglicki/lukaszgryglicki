@@ -2,8 +2,9 @@
 - 🔭 I’m currently working on ...
   - All kinds of backends for The Linux Foundation Insights V3 project.
   - I'm an author & maintainer of CNCF's DevStats tool.
+  - Researching rust, eBPF, linux kernel and kubernetes areas.
 - 🌱 I’m currently learning ...
-  - I'm learning mostly rust, and playing with a real RISC-V 64bit architecture laptop.
+  - I'm learning mostly rust, eBPF, and playing with a real RISC-V 64bit architecture laptop.
   - When speaking about non-developer hobbies:
     - I'm currently researching [deep ultraviolet photography](https://www.ultravioletphotography.com/content/index.php?/profile/368-lukaszgryglicki/).
     - I also enjoy other EM spectra photography - infrared (up to 1.2um, then thermal 7.5-14um), ultraviolet 250nm - 360nm (even UV-B & UV-C).
