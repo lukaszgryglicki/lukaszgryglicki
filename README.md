@@ -1,13 +1,13 @@
 - Member of [Mars Society](https://www.marssociety.org).
 - 🔭 I’m currently working on ...
-  - All kinds of backends for The Linux Foundation Insights V3 project.
+  - All kinds of backends for The Linux Foundation EasyCLA backend.
   - I'm an author & maintainer of CNCF's DevStats tool.
-  - Researching Rust, eBPF, RISC-V, linux kernel and kubernetes areas.
+  - Researching Rust, eBPF, RISC-V, linux kernel and Kubernetes areas.
 - 🌱 I’m currently learning ...
   - I'm learning mostly Rust, eBPF, and playing with a real RISC-V 64bit architecture laptop.
   - When speaking about non-developer hobbies:
     - I'm currently researching [deep ultraviolet photography](https://www.ultravioletphotography.com/content/index.php?/profile/368-lukaszgryglicki/).
-    - I also enjoy other EM spectra photography - infrared (up to 1.2um, then thermal 7.5-14um), ultraviolet 250nm - 360nm (even UV-B & UV-C).
+    - I also enjoy other EM spectra photography - infrared (UV: 200-400 nm, NIR: 0.7-1.2 um, thermal IR 7.5-14um).
     - I'm a member of Mars Society.
     - I like lasers too (have 808nm IR 7W and 445nm 4W AC powered, dream about a portable CO2 > 20W).
     - I like analog photography and also modern one - but it needs to be >= full frame (mostly using medium format (GFX, P67) recently plus playing with Leica-M Voigtländer lenses).
@@ -21,7 +21,7 @@
   - Lasers.
   - Traveling far and without any travel agencies (traveled entire Russia once - not using planes, in the Siberian winter).
 - 📫 How to reach me:
-  - Email: lukaszgryglicki@o2.pl, lukaszgryglicki1982@gmail.com lgryglicki@cncf.io.
+  - Email: lukaszgryglicki@o2.pl, lukaszgryglicki1982@gmail.com, lgryglicki@cncf.io, lgryglicki@contractor.linuxfoundation.org.
   - Phone: +48 693 582 014.
   - Skype: lukaszgryglicki (barely used).
   - OSS insight: https://ossinsight.io/analyze/lukaszgryglicki.
