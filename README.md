@@ -7,7 +7,7 @@
   - I'm learning mostly Rust, eBPF, and playing with a real RISC-V 64bit architecture laptop.
   - When speaking about non-developer hobbies:
     - I'm currently researching [deep ultraviolet photography](https://www.ultravioletphotography.com/content/index.php?/profile/368-lukaszgryglicki/).
-    - I also enjoy other EM spectra photography - infrared (UV: 200-400 nm, NIR: 0.7-1.2 um, thermal IR 7.5-14um).
+    - I also enjoy other EM spectra photography - infrared/ultraviolet (UV: 200-400 nm, NIR: 0.7-1.2 um, thermal IR 7.5-14um).
     - I'm a member of Mars Society.
     - I like lasers too (have 808nm IR 7W and 445nm 4W AC powered, dream about a portable CO2 > 20W).
     - I like analog photography and also modern one - but it needs to be >= full frame (mostly using medium format (GFX, P67) recently plus playing with Leica-M Voigtländer lenses).
