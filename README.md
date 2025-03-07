@@ -1,6 +1,6 @@
 - Member of [Mars Society](https://www.marssociety.org).
 - 🔭 I’m currently working on ...
-  - All kinds of backends for The Linux Foundation Insights V1, V2, V3 and EasyCLA backend.
+  - The Linux Foundation EasyCLA backend.
   - I'm an author & maintainer of CNCF's DevStats tool.
   - Researching Rust, eBPF, RISC-V, linux kernel and Kubernetes areas.
 - 🌱 I’m currently learning ...
@@ -8,10 +8,12 @@
   - When speaking about non-developer hobbies:
     - I'm currently researching [deep ultraviolet photography](https://www.ultravioletphotography.com/content/index.php?/profile/368-lukaszgryglicki/).
     - I also enjoy other EM spectra photography - infrared/ultraviolet (UV: 200-400 nm, NIR: 0.7-1.2 um, thermal IR 7.5-14um).
+    - I'm currently using Leica-M system (Lecia M240, Sony A7CII full spectrum converted + adapter, Leica/Voigtlander lenses). I'm also using Fuji GFX system (two Fujifilm 50R cameras - one monochrome another full spectrum converted).
+    - In the past was using Nikon (stiull have Nikon Df and a few film bodies, D600 full spectrum and a lot of mostly ancient AI lenses).
+    - I also have Pentax 67 and some Carz Zeiss lenses for Hasselblad-V system (mostly ancient).
     - I'm a member of Mars Society.
     - I like lasers too (have 808nm IR 7W and 445nm 4W AC powered, dream about a portable CO2 > 20W).
-    - I like analog photography and also modern one - but it needs to be >= full frame (mostly using medium format (GFX, P67) recently plus playing with Leica-M Voigtländer lenses).
-    - Enjoying motorbikes and old cars (like BMW E38 V12, Audi A8 D2 V8 etc.).
+    - Enjoying motorbikes and old cars (had BMW E38 V12, have Audi A8 D2 V8).
     - Traveling North, especially above the Arctic Circle (Norway is my favorite, especially Spitsbergen), also Alaska, Canada, used to like Russia but no longer like it (I think it's clear why).
 - I think I should be a scientist, but doing something quite close to it.
 - 💬 Ask me about ...
@@ -19,10 +21,10 @@
   - Linux, *BSD.
   - Old cars.
   - Lasers.
-  - Traveling far and without any travel agencies (traveled entire Russia once - not using planes, in the Siberian winter).
+  - Traveling far, without any travel agencies (traveled entire Russia once - not using planes, in the Siberian winter).
 - 📫 How to reach me:
   - Email: lukaszgryglicki@o2.pl, lukaszgryglicki1982@gmail.com, lgryglicki@cncf.io, lgryglicki@contractor.linuxfoundation.org.
-  - Phone: +48 693 582 014.
+  - Phone: +48 693-582-014.
   - Skype: lukaszgryglicki (barely used).
   - OSS insight: https://ossinsight.io/analyze/lukaszgryglicki.
   - This GitHub page: https://github.com/lukaszgryglicki.
