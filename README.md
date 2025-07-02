@@ -1,6 +1,6 @@
 - Member of [Mars Society](https://www.marssociety.org).
 - 🔭 I’m currently working on ...
-  - The Linux Foundation EasyCLA.
+  - The Linux Foundation EasyCLA & lfx-security.
   - I'm an author & maintainer of CNCF's DevStats tool.
   - Researching Rust, eBPF, RISC-V, linux kernel and Kubernetes areas.
 - 🌱 I’m currently learning ...
