@@ -1,6 +1,6 @@
 - Member of [Mars Society](https://www.marssociety.org).
 - 🔭 I’m currently working on ...
-  - The Linux Foundation EasyCLA backend.
+  - The Linux Foundation EasyCLA.
   - I'm an author & maintainer of CNCF's DevStats tool.
   - Researching Rust, eBPF, RISC-V, linux kernel and Kubernetes areas.
 - 🌱 I’m currently learning ...
@@ -8,13 +8,13 @@
   - When speaking about non-developer hobbies:
     - I'm currently researching [deep ultraviolet photography](https://www.ultravioletphotography.com/content/index.php?/profile/368-lukaszgryglicki/).
     - I also enjoy other EM spectra photography - infrared/ultraviolet (UV: 200-400 nm, NIR: 0.7-1.2 um, thermal IR 7.5-14um).
-    - I'm currently using Leica-M system (Lecia M240, Sony A7CII full spectrum converted + adapter, Leica/Voigtlander lenses). I'm also using Fuji GFX system (two Fujifilm 50R cameras - one monochrome another full spectrum converted).
+    - I'm currently using Leica-M system (Lecia M11 Monochrom, Sony A7CII full spectrum converted + adapter, Leica/Voigtlander lenses). I'm also using Fuji GFX system (two Fujifilm 50R cameras - one monochrome another full spectrum converted).
     - In the past was using Nikon (I still have Nikon Df and a few film bodies, D600 full spectrum and a lot of mostly ancient AI lenses + just a few AF screw lenses - I don't have & use AF-S and other "modern" lenses without aperture rings).
     - I also have Pentax 67 and some Carl Zeiss lenses for Hasselblad-V system (mostly ancient).
     - I'm a member of Mars Society.
     - I like lasers too (have 808nm IR 7W and 445nm 4W AC powered, dream about a portable CO2 > 20W).
     - Enjoying motorbikes and old cars (had BMW E38 V12, have Audi A8 D2 V8).
-    - Traveling North, especially above the Arctic Circle (Norway is my favorite, especially Spitsbergen), also Alaska, Canada, used to like Russia but no longer like it (I think it's clear why).
+    - Traveling North, especially above the Arctic Circle (Norway is my favorite, especially Spitsbergen), also Alaska, Canada, Greenland, used to like Russia but no longer like it (I think it's clear why).
 - I think I should be a scientist, but doing something quite close to it.
 - 💬 Ask me about ...
   - Photography, especially invisible "light", photograhic lenses.
