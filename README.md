@@ -1,8 +1,8 @@
 - Member of [Mars Society](https://www.marssociety.org).
 - 🔭 I’m currently working on ...
-  - The Linux Foundation EasyCLA & lfx-security.
+  - The Linux Foundation EasyCLA & lfx-self-serve.
   - I'm an author & maintainer of CNCF's DevStats tool.
-  - Researching Rust, eBPF, RISC-V, linux kernel and Kubernetes areas.
+  - Researching Tetration (math), Rust, eBPF, RISC-V, linux kernel and Kubernetes areas.
 - 🌱 I’m currently learning ...
   - I'm learning mostly Rust, eBPF, and playing with a real RISC-V 64bit architecture laptop.
   - When speaking about non-developer hobbies:
@@ -13,7 +13,7 @@
     - I also have Pentax 67 and some Carl Zeiss lenses for Hasselblad-V system (mostly ancient).
     - I'm a member of Mars Society.
     - I like lasers too (have 808nm IR 7W and 445nm 4W AC powered, dream about a portable CO2 > 20W).
-    - Enjoying motorbikes and old cars (had BMW E38 V12, have Audi A8 D2 V8).
+    - Enjoying motorbikes and old cars (had BMW E38 V12, have Audi A8 D2 V8). I also have Mazda Mx5 GT 2.0 roadster from 2023.
     - Traveling North, especially above the Arctic Circle (Norway is my favorite, especially Spitsbergen), also Alaska, Canada, Greenland, used to like Russia but no longer like it (I think it's clear why).
 - I think I should be a scientist, but doing something quite close to it.
 - 💬 Ask me about ...
