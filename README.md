@@ -2,9 +2,10 @@
 - 🔭 I’m currently working on ...
   - The Linux Foundation EasyCLA & lfx-self-serve.
   - I'm an author & maintainer of CNCF's DevStats tool.
-  - Researching Tetration (math), Rust, eBPF, RISC-V, linux kernel and Kubernetes areas.
+  - Tetration: https://hyp4.duckdns.org.
+  - Rust, RISC-V, FreeBSD kernel and Kubernetes areas.
 - 🌱 I’m currently learning ...
-  - I'm learning mostly Rust, eBPF, and playing with a real RISC-V 64bit architecture laptop.
+  - I'm learning mostly Rust and playing with a real RISC-V 64bit architecture laptop.
   - When speaking about non-developer hobbies:
     - I'm currently researching [deep ultraviolet photography](https://www.ultravioletphotography.com/content/index.php?/profile/368-lukaszgryglicki/).
     - I also enjoy other EM spectra photography - infrared/ultraviolet (UV: 200-400 nm, NIR: 0.7-1.2 um, thermal IR 7.5-14um).
